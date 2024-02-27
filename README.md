@@ -33,7 +33,7 @@ Guess the Name is an engaging multiplayer word guessing game implemented as a cl
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/malekwanas/Guess-The-Name-Server-Client.git
+git clone[https://github.com/MohamedAbdou2/Guess-the-name.git]
 ```
 *Use code with caution.*
 
