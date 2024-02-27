@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|E:\\projects\\Project 21 FINAL\\WinFormsApp1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|E:\\projects\\Project 21 FINAL\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|E:\\projects\\Project 21 FINAL\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|E:\\projects\\Project 21 FINAL\\WinFormsApp1\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|solutionrelative:gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|E:\\projects\\Project 21 FINAL\\WinFormsApp1\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|solutionrelative:gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|e:\\projects\\project 21 final\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9008D06C-AFA4-401F-A59B-DC3380066531}|WinFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:12:52.805Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameRoom.cs [Design]",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\GameRoom.cs",
+              "RelativeDocumentMoniker": "GameRoom.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\GameRoom.cs [Design]",
+              "RelativeToolTip": "GameRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:42:01.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\GameRoom.cs",
+              "RelativeDocumentMoniker": "GameRoom.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\GameRoom.cs",
+              "RelativeToolTip": "GameRoom.cs",
+              "ViewState": "AQIAABMCAAAAAAAAAAAYwCwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:37:52.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:12:34.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:12:30.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cs",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\client.cs",
+              "RelativeDocumentMoniker": "client.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\WinFormsApp1\\client.cs",
+              "RelativeToolTip": "client.cs",
+              "ViewState": "AQIAACQBAAAAAAAAAADwvwAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:11:54.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

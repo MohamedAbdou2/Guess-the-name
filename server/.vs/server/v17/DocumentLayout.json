@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\Project 21 FINAL\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52B3743-5AD4-4D6C-9740-788DA0BFA17E}|server.csproj|e:\\projects\\project 21 final\\server\\serverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52B3743-5AD4-4D6C-9740-788DA0BFA17E}|server.csproj|solutionrelative:serverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52B3743-5AD4-4D6C-9740-788DA0BFA17E}|server.csproj|E:\\projects\\Project 21 FINAL\\server\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52B3743-5AD4-4D6C-9740-788DA0BFA17E}|server.csproj|solutionrelative:clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52B3743-5AD4-4D6C-9740-788DA0BFA17E}|server.csproj|E:\\projects\\Project 21 FINAL\\server\\roomclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52B3743-5AD4-4D6C-9740-788DA0BFA17E}|server.csproj|solutionrelative:roomclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomClass.cs",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\server\\RoomClass.cs",
+              "RelativeDocumentMoniker": "RoomClass.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\server\\RoomClass.cs",
+              "RelativeToolTip": "RoomClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:08:29.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientInfo.cs",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\server\\ClientInfo.cs",
+              "RelativeDocumentMoniker": "ClientInfo.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\server\\ClientInfo.cs",
+              "RelativeToolTip": "ClientInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:03:01.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "serverclass.cs",
+              "DocumentMoniker": "E:\\projects\\Project 21 FINAL\\server\\serverclass.cs",
+              "RelativeDocumentMoniker": "serverclass.cs",
+              "ToolTip": "E:\\projects\\Project 21 FINAL\\server\\serverclass.cs",
+              "RelativeToolTip": "serverclass.cs",
+              "ViewState": "AQIAAK4BAAAAAAAAAAAqwIkBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:11:32.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
